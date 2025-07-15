@@ -23,21 +23,6 @@ Useful for research, AI persona design, user modeling, or psychological profilin
   <img src="assets/pipeline.png" width="700"/>
 </p>
 
-```
-[Reddit Username Input]
-          ↓
-   scraper.py (API or Pushshift)
-          ↓
-  data/{username}.json (saved)
-          ↓
-   pipeline.py (formats + sends to LLM)
-          ↓
- output/{username}.txt (final persona)
-
-
-
-
-```
 
 ---
 
