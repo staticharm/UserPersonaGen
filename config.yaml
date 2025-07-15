@@ -1,0 +1,7 @@
+reddit:
+  use_api: true
+  fallback_to_pushshift: true
+  reddit:
+    env_file: .env
+
+  limit: 100
